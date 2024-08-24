@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Writing Course",
+      "topicsCount": 100,
+      "imgSrc": "/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Design Principles",
+      "topicsCount": 50,
+      "imgSrc": "/img2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Programming Basics",
+      "topicsCount": 75,
+      "imgSrc": "/img3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Algorithms",
+      "topicsCount": 120,
+      "imgSrc": "/img4.jpg"
+    }
+  ]
+  
